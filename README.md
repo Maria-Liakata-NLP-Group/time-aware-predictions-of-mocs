@@ -18,5 +18,5 @@ Each label was annotated with respect to all other posts in $T_{u,j}$ and annota
 
 * `\models\` contains the architecture of different models
 * in `\utils\training\` and `\utils\evaluation\` you can train and evaluate the different models
-* `\experiments\` contains entire pipelines, which train and evaluate the proposed models and report the final set of results which would be included in the paper's submission.
+* `\final_experiments\` contains entire pipelines, which train and evaluate the proposed models and report the final set of results which would be included in the paper's submission.
 * `\utils\data_handler\` contains several useful pieces of code for handling data - in particular loading the TalkLife and Reddit datasets.
